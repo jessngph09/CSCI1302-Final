@@ -27,4 +27,9 @@ Alongside the GraphQL-Pokemon API, you could integrate a weather API. The weathe
 * Leaderboard: Track and display user scores based on battle outcomes.
 * Pokémon Library: Allow users to view detailed information about each Pokémon.
 
-API: (!link)[https://graphql-pokemon.js.org/types/TypeEffectiveness]
+#### 6. Enhanced Battle Mechanics with Type Effectiveness
+* Dynamic Battle Outcomes: Integrate type effectiveness data to dynamically calculate battle outcomes. For example, if a Fire-type Pokémon uses a fire move against a Grass-type Pokémon, the application can use the effectiveness data to amplify the damage.
+* Strategic Planning Feature: Allow users to plan their battle strategy by checking the effectiveness of their Pokémon's moves against opponents. This feature can provide users with insights on the best moves to use based on type matchups.
+* Educational Component: Add an educational aspect to the app where users can learn about type advantages and disadvantages. This can be an interactive guide or tutorial within the app
+
+API: [GraphQL Pokemon](https://graphql-pokemon.js.org/introduction/welcome)
