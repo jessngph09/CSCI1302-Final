@@ -1,5 +1,5 @@
 # PROJECT SETUP
-
+![image](https://github.com/jessngph09/CSCI1302-Final/blob/230f71e217d63fffe24aafeb3889e93848ff7f9e/Images/DALL%C2%B7E%202023-12-05%2013.00.25%20-%20A%20user%20interface%20design%20for%20a%20Poke%CC%81mon%20Battle%20Simulator%20application.%20The%20layout%20includes%20a%20section%20for%20selecting%20Poke%CC%81mon%20with%20images%20and%20stats%2C%20a%20separ.png)
 ## 1. Project Setup:
 * Set up a Java project using your preferred IDE (e.g., Eclipse, IntelliJ) or a build tool like Maven or Gradle.
 * Ensure JavaFX 17 is correctly configured for your GUI development.
