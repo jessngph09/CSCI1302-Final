@@ -26,3 +26,5 @@ Alongside the GraphQL-Pokemon API, you could integrate a weather API. The weathe
 #### 5. Additional Features
 * Leaderboard: Track and display user scores based on battle outcomes.
 * Pokémon Library: Allow users to view detailed information about each Pokémon.
+
+API: (!link)[https://graphql-pokemon.js.org/types/TypeEffectiveness]
