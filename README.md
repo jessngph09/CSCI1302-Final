@@ -4,7 +4,7 @@
 ### Overview
 Create an application that allows users to simulate Pokémon battles. The app will let users select Pokémon, their moves, and simulate the outcome of a battle based on various factors like type matchups, abilities, and stats.
 
-[!image](https://github.com/jessngph09/CSCI1302-Final/blob/18200094513299aecd842651ac5175fe7808ff9c/Images/DALL%C2%B7E%202023-12-05%2013.00.25%20-%20A%20user%20interface%20design%20for%20a%20Poke%CC%81mon%20Battle%20Simulator%20application.%20The%20layout%20includes%20a%20section%20for%20selecting%20Poke%CC%81mon%20with%20images%20and%20stats%2C%20a%20separ.png)
+![image](https://github.com/jessngph09/CSCI1302-Final/blob/18200094513299aecd842651ac5175fe7808ff9c/Images/DALL%C2%B7E%202023-12-05%2013.00.25%20-%20A%20user%20interface%20design%20for%20a%20Poke%CC%81mon%20Battle%20Simulator%20application.%20The%20layout%20includes%20a%20section%20for%20selecting%20Poke%CC%81mon%20with%20images%20and%20stats%2C%20a%20separ.png)
 
 ### How it Aligns with Requirements:
 
