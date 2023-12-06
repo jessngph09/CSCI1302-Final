@@ -8,7 +8,7 @@ mvn -q -e clean
 mvn -q -e compile
 ```
 ```
-javac -d bin -p $JAVAFX_HOME/lib --add-modules javafx.controls src/main/java/cs1302/api/*.java
+javac -d bin -p $JAVAFX_HOME/lib --add-modules javafx.controls src/main/java/cs1302/api/PokemonBattleSimulator.java
 ```
 # run.sh
 
